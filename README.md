@@ -28,23 +28,24 @@
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-Black?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-DC4437?style=for-the-badge&logo=metasploit&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-10D7B6?style=for-the-badge&logo=sql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A1?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0085D1?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-6600CC?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A1?style=for-the-badge&logo=wireshark&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-10D7B6?style=for-the-badge&logo=sql&logoColor=white)
 ![Hydra](https://img.shields.io/badge/THC_Hydra-005D74?style=for-the-badge&logo=hydra&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-60C1F4?style=for-the-badge&logo=snort&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF4A42?style=for-the-badge&logo=aircrack-ng&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-000000?style=for-the-badge&logo=openvas&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-7E1F29?style=for-the-badge&logo=zap&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-3E8E41?style=for-the-badge&logo=nikto&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-4F84C4?style=for-the-badge&logo=scapy&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF4F00?style=for-the-badge&logo=requests&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-9B4A4A?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-00A3E0?style=for-the-badge&logo=scrapy&logoColor=white)
+![Fuzzing (Atheris)](https://img.shields.io/badge/Fuzzing_Atheris-FFBF00?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FF4F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ---
 
@@ -57,14 +58,10 @@
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 📧 Email: [sandynbassarath@gmail.com](mailto:sandynbassarath@gmail.com)
+- 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sandyn-bassarath)
 
 ---
-
-## 🎨 Profile Aesthetic
-
-I like to make sure my profile stands out, so I use a mix of warm and cool tones such as mustard yellow, lilac, and dark peach to give the page a fresh, energetic vibe. The colour scheme is carefully chosen to ensure it’s easy on the eyes while reflecting my personal style and the professional nature of my work.
 
 <!-- Footer -->
 <p align="center" style="color: #FF9966;">Thank you for visiting my profile!</p>
