@@ -16,13 +16,13 @@
 ## 🌐 About Me
 
 <a href="https://github.com/cheezypandas" style="text-decoration: none;">
-  <img src="https://custom-icon-badges.demolab.com/badge/🔐_Cybersecurity_Specialist-9F8170?style=for-the-badge&logo=lock&logoColor=white" alt="Cybersecurity Specialist" style="border-radius: 25px; padding: 10px; background-color: #9F8170; color: white;">
+  <img src="https://custom-icon-badges.demolab.com/badge/🔐_Cybersecurity_Specialist-9F8170?style=for-the-badge&logo=lock&logoColor=white" alt="Cybersecurity Specialist" style="border-radius: 25px; padding: 10px; background-color: #FFB800; color: white;">
 </a>
 <a href="https://github.com/cheezypandas" style="text-decoration: none;">
-  <img src="https://custom-icon-badges.demolab.com/badge/⚔️_Penetration_Tester-6A5ACD?style=for-the-badge&logo=shield&logoColor=white" alt="Penetration Tester" style="border-radius: 25px; padding: 10px; background-color: #6A5ACD; color: white;">
+  <img src="https://custom-icon-badges.demolab.com/badge/⚔️_Penetration_Tester-6A5ACD?style=for-the-badge&logo=shield&logoColor=white" alt="Penetration Tester" style="border-radius: 25px; padding: 10px; background-color: #C9A6D1; color: white;">
 </a>
 <a href="https://github.com/cheezypandas" style="text-decoration: none;">
-  <img src="https://custom-icon-badges.demolab.com/badge/🔎_ZTA_&_CTI_Researcher-9F6B53?style=for-the-badge&logo=search&logoColor=white" alt="ZTA & CTI Researcher" style="border-radius: 25px; padding: 10px; background-color: #9F6B53; color: white;">
+  <img src="https://custom-icon-badges.demolab.com/badge/🔎_ZTA_&_CTI_Researcher-9F6B53?style=for-the-badge&logo=search&logoColor=white" alt="ZTA & CTI Researcher" style="border-radius: 25px; padding: 10px; background-color: #FFDB58; color: white;">
 </a>
 
 
