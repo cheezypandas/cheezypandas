@@ -1,15 +1,15 @@
 <!-- Profile Header -->
 <h1 align="center" style="color: #FFDB58;">Hello World, I'm <span style="color: #D8BFD8;">cheezypandas</span> 🐼🧀</h1>
-<p align="center" style="color: #FF9966;">Cybersecurity Enthusiast | Python Developer | Data Privacy Advocate</p>
+<p align="center" style="color: #FF9966;">Cybersecurity Enthusiast | Python Developer | Network Engineer</p>
 
 <!-- Cloud-Shaped Buttons -->
 <p align="center">
   <a href="https://github.com/cheezypandas" style="text-decoration: none;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypandas&layout=compact&theme=radical" alt="cheezypandas's Top Languages" style="border-radius: 25px; padding: 10px; background-color: #FFDB58; color: white;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypandas&layout=compact&theme=radical" alt="cheezypandas's Top Languages" style="border-radius: 25px; padding: 10px; background-color: #FFAD4A; color: white;">
   </a>
 
   <a href="https://github.com/cheezypandas" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-Profile-D8BFD8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="border-radius: 25px; padding: 10px; background-color: #D8BFD8; color: white;">
+    <img src="https://img.shields.io/badge/GitHub-Profile-D8BFD8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="border-radius: 25px; padding: 10px; background-color: #EAAA00; color: white;">
   </a>
 </p>
 
