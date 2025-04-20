@@ -4,9 +4,10 @@
 
 <!-- Cloud-Shaped Buttons -->
 <p align="center">
-  <a href="https://github.com/cheezypandas/data_anonymiser" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Project-Data_Anonymiser-FFDB58?style=for-the-badge&logo=python&logoColor=white" alt="Data Anonymiser" style="border-radius: 25px; padding: 10px; background-color: #FFDB58; color: white;">
+  <a href="https://github.com/cheezypandas" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypandas&layout=compact&theme=radical" alt="cheezypandas's Top Languages" style="border-radius: 25px; padding: 10px; background-color: #FFDB58; color: white;">
   </a>
+
   <a href="https://github.com/cheezypandas" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-Profile-D8BFD8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="border-radius: 25px; padding: 10px; background-color: #D8BFD8; color: white;">
   </a>
@@ -14,9 +15,16 @@
 
 ## 🌐 About Me
 
-![Penetration Tester](https://img.shields.io/badge/⚔️_Penetration_Tester-lilac-D8BFD8?style=for-the-badge&logoColor=white&labelColor=6A5ACD)
-![Privacy Advocate](https://img.shields.io/badge/🔐_Data_Privacy_Advocate-mustard-yellow-FFDB58?style=for-the-badge&logoColor=white&labelColor=9F8170)
-![ZTA Researcher](https://img.shields.io/badge/🔎_ZTA_&_CTI_Researcher-dark_peach-FF9966?style=for-the-badge&logoColor=white&labelColor=9F6B53)
+<a href="https://github.com/cheezypandas" style="text-decoration: none;">
+  <img src="https://custom-icon-badges.demolab.com/badge/🔐_Cybersecurity_Specialist-9F8170?style=for-the-badge&logo=lock&logoColor=white" alt="Cybersecurity Specialist" style="border-radius: 25px; padding: 10px; background-color: #9F8170; color: white;">
+</a>
+<a href="https://github.com/cheezypandas" style="text-decoration: none;">
+  <img src="https://custom-icon-badges.demolab.com/badge/⚔️_Penetration_Tester-6A5ACD?style=for-the-badge&logo=shield&logoColor=white" alt="Penetration Tester" style="border-radius: 25px; padding: 10px; background-color: #6A5ACD; color: white;">
+</a>
+<a href="https://github.com/cheezypandas" style="text-decoration: none;">
+  <img src="https://custom-icon-badges.demolab.com/badge/🔎_ZTA_&_CTI_Researcher-9F6B53?style=for-the-badge&logo=search&logoColor=white" alt="ZTA & CTI Researcher" style="border-radius: 25px; padding: 10px; background-color: #9F6B53; color: white;">
+</a>
+
 
 - Master's-level Cybersecurity student with hands-on experience in penetration testing, Zero Trust Architecture (ZTA), and Cyber Threat Intelligence (CTI).
 - Passionate about data privacy, GDPR compliance, and ensuring organisations adopt the best practices to protect sensitive data.
@@ -59,7 +67,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: [sandynbassarath@gmail.com](mailto:sandynbassarath@gmail.com)
-- 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sandyn-bassarath)
+- 💬 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sandyn-bassarath)
 
 ---
 
