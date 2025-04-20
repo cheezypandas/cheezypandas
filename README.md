@@ -2,7 +2,7 @@
 <h1 align="center" style="color: #FFDB58;">Hello World, I'm <span style="color: #D8BFD8;">cheezypandas</span> 🐼🧀</h1>
 <p align="center" style="color: #FF9966;">Cybersecurity Enthusiast | Python Developer | Network Engineer</p>
 
-<!-- Cloud-Shaped Buttons -->
+<!-- Buttons -->
 <p align="center">
   <a href="https://github.com/cheezypandas" style="text-decoration: none;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheezypandas&layout=compact&theme=radical" alt="cheezypandas's Top Languages" style="border-radius: 25px; padding: 10px; background-color: #FFAD4A; color: white;">
@@ -16,14 +16,15 @@
 ## 🌐 About Me
 
 <a href="https://github.com/cheezypandas" style="text-decoration: none;">
-  <img src="https://custom-icon-badges.demolab.com/badge/🔐_Cybersecurity_Specialist-9F8170?style=for-the-badge&logo=lock&logoColor=white" alt="Cybersecurity Specialist" style="border-radius: 25px; padding: 10px; background-color: #FFB800; color: white;">
+  <img src="https://img.shields.io/badge/🔐_Cybersecurity_Specialist-FFB800?style=for-the-badge&logo=lock&logoColor=white" alt="Cybersecurity Specialist" style="border-radius: 25px; padding: 10px;">
 </a>
 <a href="https://github.com/cheezypandas" style="text-decoration: none;">
-  <img src="https://custom-icon-badges.demolab.com/badge/⚔️_Penetration_Tester-6A5ACD?style=for-the-badge&logo=shield&logoColor=white" alt="Penetration Tester" style="border-radius: 25px; padding: 10px; background-color: #C9A6D1; color: white;">
+  <img src="https://img.shields.io/badge/⚔️_Penetration_Tester-C9A6D1?style=for-the-badge&logo=shield&logoColor=white" alt="Penetration Tester" style="border-radius: 25px; padding: 10px;">
 </a>
 <a href="https://github.com/cheezypandas" style="text-decoration: none;">
-  <img src="https://custom-icon-badges.demolab.com/badge/🔎_ZTA_&_CTI_Researcher-9F6B53?style=for-the-badge&logo=search&logoColor=white" alt="ZTA & CTI Researcher" style="border-radius: 25px; padding: 10px; background-color: #FFDB58; color: white;">
+  <img src="https://img.shields.io/badge/🔎_ZTA_&_CTI_Researcher-FFAD48?style=for-the-badge&logo=search&logoColor=white" alt="ZTA & CTI Researcher" style="border-radius: 25px; padding: 10px;">
 </a>
+
 
 
 - Master's-level Cybersecurity student with hands-on experience in penetration testing, Zero Trust Architecture (ZTA), and Cyber Threat Intelligence (CTI).
